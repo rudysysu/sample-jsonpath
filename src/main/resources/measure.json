@@ -1,0 +1,105 @@
+
+{
+    "name": "Traffic light 001 example",
+    "serviceId": "db39fd3e-7ad5-44be-a817-01fcb608efbb",
+    "externalId": "Trafficlight001",
+    "deviceTypeKey": 111001,
+    "smartObjects": [
+        {
+            "resources": [
+                {
+                    "resourceTypeKey": 30011,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": 40,
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/26311/0/30011"
+                },
+                {
+                    "resourceTypeKey": 30012,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": "No Connection / Unavailable",
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/26311/0/30012"
+                }
+            ],
+            "instanceId": 0,
+            "smartObjectTypeKey": 26311
+        },
+        {
+            "resources": [
+                {
+                    "resourceTypeKey": 30021,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/26312/0/30021"
+                }
+            ],
+            "instanceId": 0,
+            "smartObjectTypeKey": 26312
+        },
+        {
+            "resources": [
+                {
+                    "test": 1,
+                    "resourceTypeKey": 5513,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": 57.712046,
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/3336/0/5513"
+                },
+                {
+                    "resourceTypeKey": 5518,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": null,
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/3336/0/5518"
+                },
+                {
+                    "resourceTypeKey": 5514,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": "11.971096",
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/3336/0/5514"
+                },
+                {
+                    "resourceTypeKey": 5516,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": null,
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/3336/0/5516"
+                },
+                {
+                    "resourceTypeKey": 5515,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": null,
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/3336/0/5515"
+                },
+                {
+                    "resourceTypeKey": 5517,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": null,
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/3336/0/5517"
+                },
+                {
+                    "resourceTypeKey": 5705,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": null,
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/3336/0/5705"
+                },
+                {
+                    "resourceTypeKey": 5750,
+                    "timestamp": "2019-02-12T14:11:23.000Z",
+                    "value": null,
+                    "url": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105/3336/0/5750"
+                }
+            ],
+            "instanceId": 0,
+            "smartObjectTypeKey": 3336
+        }
+    ],
+    "metas":
+    {
+        "imageUrl": "https://intellistore.blob.core.windows.net/rtt-images/CAM_02_NAve_West.jpg",
+        "description": "Short description of the device. Short description of the device line2.",
+        "city": "Gothenburg",
+        "light": "red",
+        "status": "ok",
+        "mode": "auto",
+        "battery": 99
+    },
+    "deviceIdentifier": "db39fd3e-7ad5-44be-a817-01fcb608efbb_Trafficlight001_44105",
+    "id": "68361dc2-35d2-4250-acc5-0b4c388e781f"
+}
